@@ -12,7 +12,7 @@ Contact
 
 About Me
 
-I am a Telecommunications Engineer committed to leveraging technology to create innovative solutions. Currently, I am expanding my expertise by learning Generative AI, and I am also exploring IoT, Python, HTML, and CSS. My goal is to integrate these skills into practical applications that address real-world challenges.
+      I am a Telecommunications Engineer committed to leveraging technology to create innovative solutions. Currently, I am expanding my expertise by learning Generative AI, and I am also exploring IoT, Python, HTML, and CSS. My goal is to integrate these skills into practical applications that address real-world challenges.
 
 Skills
 
